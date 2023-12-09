@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Goal</string>
+
+    <string name="title">Chelsea hendak menerapkan sebuah kebijakan transfer baru di bursa Januari demi mencegah skuad kegendutan.</string>
+    <string name="detail">
+        Chelsea berencana memboyong dua sampai tiga pemain baru di bursa transfer Januari demi menguatkan skuad asuhan Mauricio Pochettino, menurut The Telegraph. Namun, mereka berencana menerapkan kebijakan transfer baru yakni jumlah pemain masuk harus sama dengan jumlah pemain keluar, demi menjaga konsistensi jumlah anggota skuad.\n\n
+        Chelsea berharap bisa mendatangkan striker ngetop dan juga pemain bertahan hanyar. Sementara itu di sektor penjualan, Trevoh Chalobah santer diprediksi akan dilego pada bursa transfer Januari, dan Bayern Munich disebut-sebut masih tertarik padanya. Masa depan Armando Broja, Ian Maatsen, Malang Sarr, dan Conor Gallagher juga diragukan.
+    </string>
+
+    <array name="data_photo">
+        <item>@drawable/image1</item>
+        <item>@drawable/image2</item>
+        <item>@drawable/image3</item>
+    </array>
+
+    <string-array name="data_title">
+        <item>Man United</item>
+        <item>Liverpool</item>
+        <item>Chelsea</item>
+    </string-array>
+
+    <string-array name="data_detail">
+        <item>
+            Chelsea terhambat seretnya gol dari penyerangnya. Tapi merekrut penyerang baru lagi dinilai bukan langkah yang bijak.
+            Chelsea mengandalkan Nicolas Jackson di posisi penyerang tengah musim ini, menyusul cederanya Christopher Nkunku. Jackson yang baru didatangkan dari Villarreal musim panas kemarin belum cukup mampu membayar kepercayaan besar itu.
+
+            Ia memang sudah bikin enam gol dari 14 penampilan di Premier League, akan tetapi tiga di antaranya dicetak di satu laga. Secara keseluruhan ia baru membuat gol di empat pertandingan sementara puasa di 10 lainnya
+        </item>
+
+        <item>
+            Marcus Rashford dan Mason Mount kesulitan dalam Manchester United musim ini. Ada kekhawatiran mereka akan senasib dengan Paul Pogba dan Angel Di Maria. Rashford meredup musim ini di MU dan baru mencetak dua gol dari 19 penampilan di seluruh ajang. Padahal musim lalu ia bersinar dengan mencetak 30 gol dan jadi top skor tim, lebih dari dua kali lipat torehan Bruno Fernandes (14 gol).
+
+            Senada dengan Rashford, Mason Mount juga belum mampu bersinar. Didatangkan dari Chelsea pada bursa transfer musim panas kemarin senilai total 60 juta paun, gelandang 24 tahun itu belum berkontribusi gol dan baru bikin satu assist dari 12 laga.
+        </item>
+
+        <item>
+            Juergen Klopp begitu puas dengan kemenangan 2-0 Liverpool atas Sheffield United. Hal ini menunjukkan kematangan permainan Si Merah. Liverpool meraih kemenangan 2-0 atas Sheffield United di Bramall Lane pada laga pekan ke-15 Premier League, Dua gol Si Merah dibuat oleh Virgil van Dijk dan Dominik Szoboszlai.
+
+            Kemenangan ini tak sepenuhnya mudah untuk Liverpool. Meski, mereka menguasai laga.
+        </item>
+
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+</resources>
