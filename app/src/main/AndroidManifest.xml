@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:tools="http://schemas.android.com/tools" >
 
     <application
         android:allowBackup="true"
@@ -11,9 +11,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidAdvanced"
-        tools:targetApi="31">
+        tools:targetApi="31" >
         <activity
-            android:name="com.rad21.MainActivity3"
+            android:name=".tab.TabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.AndroidAdvanced.NoActionBar" />
+        <activity
+            android:name=".bottomnav.MainViewModel"
+            android:exported="false" />
+        <activity
+            android:name=".bottomnav.ViewModelActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SharePreferenceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
             android:exported="false"
             android:label="@string/title_activity_main3"
             android:theme="@style/Theme.AndroidAdvanced.NoActionBar" />
@@ -21,21 +38,17 @@
             android:name=".ui.intro.IntroActivity"
             android:exported="false" />
         <activity
-            android:name=".DetailNewsActivity"
+            android:name=".bottomnav.DetailNewsActivity"
             android:exported="false" />
         <activity
-            android:name=".DetailActivity"
+            android:name=".bottomnav.DetailActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity2"
-            android:exported="false"
-            android:label="@string/title_activity_main2" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".bottomnav.MainActivity"
             android:exported="false" />
         <activity
             android:name=".ui.intro.SplashActivity"
-            android:exported="true">
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

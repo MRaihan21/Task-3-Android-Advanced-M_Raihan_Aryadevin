@@ -1,4 +1,4 @@
-package com.rad21.androidadvanced.newsadapter
+package com.rad21.androidadvanced.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

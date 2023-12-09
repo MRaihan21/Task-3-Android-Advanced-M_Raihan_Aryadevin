@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DetailNewsActivity">
+    tools:context=".bottomnav.DetailNewsActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/lay_header"
@@ -31,6 +31,15 @@
                 android:src="@drawable/arrow_back"
                 android:focusable="true"
                 app:tint="@color/white" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Detail Berita"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                />
 
         </androidx.appcompat.widget.Toolbar>
 

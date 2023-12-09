@@ -1,4 +1,4 @@
-package com.rad21.ui.gallery
+package com.rad21.androidadvanced.ui.gallery
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

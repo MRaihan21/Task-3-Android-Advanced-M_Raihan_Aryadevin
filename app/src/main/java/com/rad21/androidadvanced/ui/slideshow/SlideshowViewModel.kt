@@ -1,4 +1,4 @@
-package com.rad21.ui.slideshow
+package com.rad21.androidadvanced.ui.slideshow
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -1,13 +1,14 @@
-package com.rad21.androidadvanced
+package com.rad21.androidadvanced.bottomnav
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.rad21.androidadvanced.R
 import com.rad21.androidadvanced.databinding.ActivityMainBinding
-import com.rad21.androidadvanced.newsadapter.Berita
-import com.rad21.androidadvanced.newsadapter.BeritaAdapter
+import com.rad21.androidadvanced.data.Berita
+import com.rad21.androidadvanced.adapter.BeritaAdapter
 
 class MainActivity : AppCompatActivity() {
 

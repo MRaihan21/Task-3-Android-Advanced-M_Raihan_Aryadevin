@@ -1,4 +1,4 @@
-package com.rad21.androidadvanced.newsadapter
+package com.rad21.androidadvanced.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.rad21.androidadvanced.R
+import com.rad21.androidadvanced.data.Berita
 
 class BeritaAdapter (
     private val context: Context,

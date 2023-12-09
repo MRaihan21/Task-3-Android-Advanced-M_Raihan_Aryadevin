@@ -1,13 +1,13 @@
-package com.rad21.androidadvanced
+package com.rad21.androidadvanced.bottomnav
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
+import com.rad21.androidadvanced.R
 import com.rad21.androidadvanced.databinding.ActivityDetailBinding
-import com.rad21.androidadvanced.newsadapter.Berita
+import com.rad21.androidadvanced.data.Berita
 
 
 class DetailActivity : AppCompatActivity() {

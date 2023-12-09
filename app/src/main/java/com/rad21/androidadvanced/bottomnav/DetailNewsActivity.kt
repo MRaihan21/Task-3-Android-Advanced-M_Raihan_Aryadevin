@@ -1,4 +1,4 @@
-package com.rad21.androidadvanced
+package com.rad21.androidadvanced.bottomnav
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

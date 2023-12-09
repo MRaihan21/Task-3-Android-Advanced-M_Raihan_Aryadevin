@@ -1,4 +1,4 @@
-package com.rad21.ui.gallery
+package com.rad21.androidadvanced.ui.gallery
 
 import android.os.Bundle
 import android.view.LayoutInflater
